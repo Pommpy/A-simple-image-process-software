@@ -12,21 +12,21 @@ clone到本地后点击imageProcess里的opencv-image.exe可以直接运行exe�
 在此基础上，还实现了一些基本的图像处理功能，包括灰度变换、边缘提取、伽马矫正、均值/中值滤波，拉普拉斯锐化等。同时还提供了一些基于频率域的功能，比如显示频谱图，高斯低通/高通滤波，逆滤波复原等。
 
 ### 初始界面
-![](https://gitee.com/pommpy/img/raw/master/images/初始界面.png)
+![](image/initial.png)
 ### 基础功能
-![](https://gitee.com/pommpy/img/raw/master/images/basic.png)
+![](image/basic.png)
 ### 调整颜色
-![](https://gitee.com/pommpy/img/raw/master/images/color.png)
+![](image/color.png)
 ### 裁剪和旋转
-![](https://gitee.com/pommpy/img/raw/master/images/tailer.png)
-![](https://gitee.com/pommpy/img/raw/master/images/cai.png)
-![](https://gitee.com/pommpy/img/raw/master/images/rotate.png)
+![](image/tailer.png)
+![](image/cai.png)
+![](image/rotate.png)
 ### 添加滤镜
-![](https://gitee.com/pommpy/img/raw/master/images/filter.png)
+![](image/filter.png)
 ### 添加文本
-![](https://gitee.com/pommpy/img/raw/master/images/text.png)
+![](image/text.png)
 ### 基础图像处理
-![](https://gitee.com/pommpy/img/raw/master/images/ba.png)
+![](image/ba.png)
 ### 频率域图像处理
-![](https://gitee.com/pommpy/img/raw/master/images/fre.png)
-![](https://gitee.com/pommpy/img/raw/master/images/gauss.png)
+![](image/fre.png)
+![](image/gauss.png)
